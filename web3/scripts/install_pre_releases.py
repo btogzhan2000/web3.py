@@ -9,7 +9,7 @@ import subprocess
 import sys
 
 ETHEREUM_LIBRARIES = [
-    "eth-account",
+    # "eth-account",
     "eth-abi",
     "eth-account",
     "eth-hash[pycryptodome]",
